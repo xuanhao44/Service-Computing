@@ -1,0 +1,14 @@
+# Hot topic study – Task 3
+
+Find information online about the challenges of applying service orientation in the chosen domain/industry. 
+
+By the end of April 9th, submit a table with the information you have found.
+
+| Challenges                                                   | Short description of the challenges                          | Link to the website where the challenges are described/mentioned |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Difficult to detect abnormal rail fasteners **directly** from the images of tracks | A model was created using Custom Vision, an image recognition service provided by Azure, to detect only abnormal rail fasteners from the photographs of tracks. With the model, it was difficult for Microsoft to determine the difference between normal and abnormal rail fasteners, and the model did not provide sufficient detection accuracy. | [Microsoft Customer Story-Using Azure AI and Power Apps, Tokyo Metro Develops a Track Abnormality Detection Solution by Amateur and Pro Developers and Business Experts](https://customers.microsoft.com/en-us/story/1584832935479879254-tokyo-metro-travel-transportation-azure-en-japan) |
+|                                                              | An image model for detecting rail fasteners themselves is to be created first. Then, only rail fasteners are to be cut out of the images, followed by classification into normal and abnormal fasteners. In other words, we propose to create a model to detect abnormal fasteners with high accuracy, by dividing the process into three steps. |                                                              |
+| Collaboration among amateur developers, professional developers, and front-line professional engineers. | AI teams don’t have professional knowledge in the specific job, while their customers’ employees do. | [Microsoft Customer Story-Using Azure AI and Power Apps, Tokyo Metro Develops a Track Abnormality Detection Solution by Amateur and Pro Developers and Business Experts](https://customers.microsoft.com/en-us/story/1584832935479879254-tokyo-metro-travel-transportation-azure-en-japan) |
+|                                                              | The Tokyo Metro team created a model that was far more accurate than the one Microsoft had created in its preliminary validation. They are well informed of rail fasteners. In addition, they had a firm grasp of the effective way of using AI — it is all right to improve the accuracy through a trial-and-error process, using Custom Vision. As a result, the accuracy of the model they created was much higher than 90% while the accuracy of the model Microsoft created was about 70%. |                                                              |
+
+Make sure that the links you include are valid.

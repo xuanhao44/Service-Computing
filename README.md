@@ -22,9 +22,18 @@ Dr Joanna Siebert
   - Multiple choice questions – 10 questions, 3 points each 单选题！
   - Short description questions – 5 questions, 6 points each
   - Case questions – 40 points in total
-
 - 范围：见 slide/final examination scope.pptx。
 - 考试准备资料：见 for_test 和 note 文件夹。
+
+---
+
+考试感想：
+
+- 要写的好多。
+- 选择题需要你对整门课的知识点有一个比较大概的认识——也就是至少要完整的看完一遍 PPT。
+- 简答题：直接照抄 PPT。
+- 情景题：和 Module 6 的的样例基本相同！所以一定要认真看精简的 for_test PPT 哦。
+  - 其中 20 分的一问是把 service ayalsis 的 step 5 和 step 6 抽出来了——这是需要读题目分析出来的，因为提到了 service candidates 已经被 created 了，所以是在 step 4 之后；因为提到完成 Identify candidate service compositions，所以就可以确定需要写的是 step 5 和 step 6。
 
 ## 参考书籍
 
@@ -40,6 +49,6 @@ Dr Joanna Siebert
 
 - slide：老师上课的 PPT，仅对名称进行微调。
 
-- for_test：考试用精简 PPT。
+- for_test：考试用精简 PPT，比起原本的 PPT 精修了一遍，比原本的 PPT 更适合阅读。
 
 - note：各章节的笔记，有的是全部内容整合，有的是纲要标题记录，还有各章的问题及解答（如果该章节有问题的话）

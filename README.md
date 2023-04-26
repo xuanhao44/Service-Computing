@@ -17,9 +17,14 @@ Dr Joanna Siebert
 
 ## 考试
 
-开卷考试，范围见 slide/final examination scope.pptx。
+- 形式
+  - Open book 开卷
+  - Multiple choice questions – 10 questions, 3 points each 单选题！
+  - Short description questions – 5 questions, 6 points each
+  - Case questions – 40 points in total
 
-考试前准备资料见 for_test 和 note 文件夹。
+- 范围：见 slide/final examination scope.pptx。
+- 考试准备资料：见 for_test 和 note 文件夹。
 
 ## 参考书籍
 

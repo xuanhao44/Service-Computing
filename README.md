@@ -4,11 +4,11 @@
 
 ## 老师
 
-Dr Joanna Siebert
+Joanna Siebert
 
 ## 分数构成
 
-- •5% - Participation
+- 5% - Participation
 - 15% - Hot topic study journal
 - 20% - Exercises
   - Case study
@@ -29,7 +29,8 @@ Dr Joanna Siebert
 
 考试感想：
 
-- 要写的好多。
+- 要写的好多，2 小时考试写了 1 小时 50 分。
+- 就算看过了一遍 PPT，有时还是会发现一个问题看过但是不记得在哪里看过。
 - 选择题需要你对整门课的知识点有一个比较大概的认识——也就是至少要完整的看完一遍 PPT。
 - 简答题：直接照抄 PPT。
 - 情景题：和 Module 6 的的样例基本相同！所以一定要认真看精简的 for_test PPT 哦。

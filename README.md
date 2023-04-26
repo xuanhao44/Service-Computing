@@ -17,7 +17,7 @@ Dr Joanna Siebert
 
 ## 考试
 
-开卷考试，范围见 [final examination scope.pptx](slide/final examination scope.pptx)。
+开卷考试，范围见 slide/final examination scope.pptx。
 
 考试前准备资料见 for_test 和 note 文件夹。
 
@@ -38,7 +38,3 @@ Dr Joanna Siebert
 - for_test：考试用精简 PPT。
 
 - note：各章节的笔记，有的是全部内容整合，有的是纲要标题记录，还有各章的问题及解答（如果该章节有问题的话）
-
-
-
- 

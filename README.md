@@ -36,6 +36,19 @@ Joanna Siebert
 - 情景题：和 Module 6 的的样例基本相同！所以一定要认真看精简的 for_test PPT 哦。
   - 其中 20 分的一问是把 service ayalsis 的 step 5 和 step 6 抽出来了——这是需要读题目分析出来的，因为提到了 service candidates 已经被 created 了，所以是在 step 4 之后；因为提到完成 Identify candidate service compositions，所以就可以确定需要写的是 step 5 和 step 6。
 
+---
+
+最后分数（本人）：93
+
+排名 6/74
+
+|          分项           | 满分 | 比重 | 得分 |
+| :---------------------: | :--: | :--: | :--: |
+|      Participation      | 100  |  5   | 100  |
+| Hot topic study journal | 100  |  15  | 100  |
+|        Exercises        | 100  |  20  | 100  |
+|    Final examination    | 100  |  60  |  89  |
+
 ## 参考书籍
 
 有，但不需要读；全靠 PPT 就够了。
@@ -46,7 +59,7 @@ Joanna Siebert
 
   - Module 4 的 programming tutorial 的文档以及项目我也已整理，地址：
 
-    https://github.com/xuanhao44/jaxws
+    <https://github.com/xuanhao44/jaxws>
 
 - slide：老师上课的 PPT，仅对名称进行微调。
 
